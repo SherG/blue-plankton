@@ -62,8 +62,3 @@ In the meantime I hope I'll have another opportunity to spy these furry pigs as 
 <hr/>
 <p><small><em>Photo credit: Young wild boar by <a href="https://commons.wikimedia.org/wiki/User:Michael_G%C3%A4bler" target="blank">Michael Gäbler</a>, courtesy of a <a href="https://creativecommons.org/licenses/by/3.0/deed.en" target="blank">Creative Commons 3.0 Unported license</a> (CC by 3.0)</em></small></p>
 
-
-
-Temporary code test
-
-<div><div rel="commodity-price-graph" style="width: 720px; max-width: 100%; height: 450px; display: flex; flex-direction: column; overflow: hidden;" data-symbol="XAU/USD" data-range="4" data-width="720" data-height="450" data-micro-limit-ts="1642464000000" data-macro-limit-ts="1610928000000" data-title="Gold Spot / US Dollar"></div><a href="https://commodity.com"><img width="128" height="38" alt="Commodity.com" src="https://commodity.com/wp-content/plugins/commodity-price-graph/assets/commodity-logo.png"></a><script src="https://commodity.com/wp-content/plugins/commodity-price-graph/widget-js/embed-v3.js" rel="commodity-price-graph-js"></script></div>
