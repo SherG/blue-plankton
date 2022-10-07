@@ -77,7 +77,7 @@ I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">
 
 Their delivery radius covers much of southwestern New Hamsphire and parts of southeastern Vermont. But, you can also pick up wood yourself at Treehuggers. Contact them for details. 
 
-Kiln-dried wood is ready to burn, and catches fire quickly. You also don't have to be concerned about bugs potentially being in the wood. 
+Kiln-dried wood is ready to burn, and catches fire quickly. Another benefit of kiln-dried: there aren't any bugs in the wood.
 
 That's a plus if you want to stack a good amount inside your home, as I do. I stack about 3-4 weeks' worth. That cuts down on the number of times I have to haul wood from the barn to my home.
 
@@ -87,9 +87,20 @@ Spring is the time to purchase semi-seasoned. You need to give it a good 9 month
 
 Semi-seasoned is considerably cheaper than kiln-dried. You can buy a cord of semi-seasoned for about $225. Kiln-dried firewood is currently going for $380/cord. 
 
+#### How much firewood do I need?
+
 * If you live in an average-sized house, count on needing 4-5 cords of firewood 
-* If you live in a small house or cabin, count on needing 2-3 cords.
+* If you live in a small house, count on needing 2-3 cords.
+* If you live in a small cabin, count on 1.5 cords.
 * Count on spending $50 per cord if you want someone to stack it for you
+
+How much firewood you need will be partly determined on whether you plan to rely solely on your fireplace or wood stove for heat. 
+
+> Tip: Before you go to bed, put an "all-nighter" on the fire. This is simply one of the biggest logs in your stack. It won't really last "all night" but it will help maintain your heat longer.
+
+Consider: it'll get cold in the middle of the night after your fire's gone out. Do you want to get up a few times during the night to start a new fire? \
+\
+If not, you'll need to use a thermostat-controlled space heater or baseboard heating. 
 
 Realize that as late as April and May you may be running your wood stove — at least at night.
 
