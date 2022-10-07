@@ -3,7 +3,7 @@
 title: Electricity hike of 112% highlights poor New England energy design 
 subtitle: It's not the electric company's fault though
 date: 2022-07-24T17:41:17.333Z
-thumb_img_path: 
+thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1665109151/ruralnh/lng-tanker_hqoojr.jpg
 excerpt: Why our energy policies are bonkers.
 layout: post
 ---
