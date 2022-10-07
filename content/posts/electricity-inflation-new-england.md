@@ -38,6 +38,8 @@ Time to stock up on firewood + seal those cracks.
 
 <br/>
 
+<small><em>LNG carrier photo by <a href="https://commons.wikimedia.org/wiki/User:JoachimKohler-HB" target="blank">JoachimKohlerBremen</a>, unedited, via <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="blank">CC BY-SA 4.0</a> license.</em><small>
+
 ### Related
 
 <a href="https://www.wmur.com/article/new-hampshire-increases-electricity-bills-61622/40314355" target="blank">New Hampshire residents warned of 'drastic increases' in electricity bills</a><br/>
