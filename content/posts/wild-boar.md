@@ -23,7 +23,7 @@ According to the New Hampshire Fish and Game Department permission is usually gr
 
 These wild pigs clearly have bureaucracy on their side. 
 
-Years ago, residents were allowed to kill the boar on sight. However that incentivized locals to poach. Fish and Game director Glenn Normandeau [explained](https://www.concordmonitor.com/corbin-park-bluemountain-nh-hunting-preserve-game-31987801) that "people would put piles of corn outside the fence and cut holes to lure hogs outside and kill them. So we got rid of that law."
+Years ago, residents were allowed to kill the boar on sight. However that incentivized locals to poach from the fenced-in preserve. Fish and Game director Glenn Normandeau [explained](https://www.concordmonitor.com/corbin-park-bluemountain-nh-hunting-preserve-game-31987801) that "people would put piles of corn outside the fence and cut holes to lure hogs outside and kill them. So we got rid of that law."
 
 Roaming wild boar are most commonly found in Grafton, Cheshire, and Sullivan counties, according to the Fish and Game Department. 
 
@@ -61,4 +61,3 @@ In the meantime I hope I'll have another opportunity to spy these furry pigs as 
 
 <hr/>
 <p><small><em>Photo credit: Young wild boar by <a href="https://commons.wikimedia.org/wiki/User:Michael_G%C3%A4bler" target="blank">Michael Gäbler</a>, courtesy of a <a href="https://creativecommons.org/licenses/by/3.0/deed.en" target="blank">Creative Commons 3.0 Unported license</a> (CC by 3.0)</em></small></p>
-
