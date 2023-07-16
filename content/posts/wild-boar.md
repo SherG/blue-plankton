@@ -8,7 +8,8 @@ excerpt: Wild boar were spotted running in the ravine out back. Turns out
 layout: post
 ---
 
-(This is a test)
+-running a netlify test on this temporarily- 
+
 On Christmas Eve wild boar were spotted running in the stream-cut ravine out back. Three men from a local excavating business spied them. They were excited about their discovery. 
 
 I hadn't realized that there are wild boar in New Hampshire. The sighting made me curious to learn more. 
